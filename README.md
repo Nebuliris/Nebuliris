@@ -27,8 +27,16 @@ Currently exploring **web development, systems, networking and self-hosting**.
 * 🤖 Discord bots
 * 🐘 PostgreSQL & backend development
 * 🐳 Docker, Nginx & VPS
-* 💻 C / Python / JavaScript
+* 💻 C / Python / Web
 * 🔧 Networking & homelab projects
+
+---
+
+### 📌 Featured projects
+
+🚧 **Currently building...**
+
+More projects coming soon.
 
 ---
 
@@ -37,22 +45,6 @@ Currently exploring **web development, systems, networking and self-hosting**.
 > **Nebuliris** = *Nebula + Iris*
 
 A little space-themed identity inspired by the night sky, because apparently naming projects after astronomical objects makes debugging them 12% more enjoyable.
-
----
-
-### 🛠️ Tech stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
-
-</p>
-
-### 📌 Featured projects
-
-🚧 **Currently building...**
-
-More projects coming soon.
 
 ---
 
