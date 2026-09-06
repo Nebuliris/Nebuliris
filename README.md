@@ -7,28 +7,6 @@ Currently exploring **web development, systems, networking and self-hosting**.
 
 ---
 
-### 🚀 What I'm working on
-
-* 🐧 Linux & self-hosted infrastructure
-* 🌐 Web applications & real-time systems
-* 🤖 Discord bots
-* 🐘 PostgreSQL & backend development
-* 🐳 Docker, Nginx & VPS
-* 💻 C / Python / JavaScript
-* 🔧 Networking & homelab projects
-
----
-
-### 🛠️ Tech stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
-
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -39,6 +17,27 @@ Currently exploring **web development, systems, networking and self-hosting**.
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=6&layout=compact&disable_animations=true&theme=prussian" height="170"/>
 </p>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
+
+</p>
+---
+
+### 🚀 What I'm working on
+
+* 🐧 Linux & self-hosted infrastructure
+* 🌐 Web applications & real-time systems
+* 🤖 Discord bots
+* 🐘 PostgreSQL & backend development
+* 🐳 Docker, Nginx & VPS
+* 💻 C / Python / JavaScript
+* 🔧 Networking & homelab projects
 
 ---
 
