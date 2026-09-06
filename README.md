@@ -66,6 +66,14 @@ More projects coming soon.
   <img src="https://img.shields.io/badge/GitHub-Nebuliris-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://www.instagram.com/nebuliris">
+  <img src="https://img.shields.io/badge/Instagram-Nebuliris-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/Fjm28eDp">
+  <img src="https://img.shields.io/badge/Discord-Nebuliris-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </p>
 
 ---
