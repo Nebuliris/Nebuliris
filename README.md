@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=calm_pink)
+
 [![GitHub Streak](https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=cobalt&locale=fr)](https://git.io/streak-stats)
 
 --
