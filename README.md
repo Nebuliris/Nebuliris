@@ -70,7 +70,7 @@ More projects coming soon.
   <img src="https://img.shields.io/badge/Instagram-Nebuliris-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://discord.gg/Fjm28eDp">
+<a href="https://discord.com/users/908030631076823050">
   <img src="https://img.shields.io/badge/Discord-Nebuliris-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
