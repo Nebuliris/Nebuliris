@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=synthwave&locale=fr)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=42657604-821f-47e5-b0d2-2bc08ef167b4&hide_progress=true&card_width=315&custom_title=WakaTime%20Stats&langs_count=6&display_format=percent&theme=calm_pink)](https://wakatime.com/@42657604-821f-47e5-b0d2-2bc08ef167b4)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=5&disable_animations=true&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=5&disable_animations=true&theme=synthwave)
