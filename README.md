@@ -20,15 +20,6 @@ Currently exploring **web development, systems, networking and self-hosting**.
 
 ---
 
-### 🛠️ Tech stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
-
-</p>
----
-
 ### 🚀 What I'm working on
 
 * 🐧 Linux & self-hosted infrastructure
@@ -48,6 +39,14 @@ Currently exploring **web development, systems, networking and self-hosting**.
 A little space-themed identity inspired by the night sky, because apparently naming projects after astronomical objects makes debugging them 12% more enjoyable.
 
 ---
+
+### 🛠️ Tech stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
+
+</p>
 
 ### 📌 Featured projects
 
