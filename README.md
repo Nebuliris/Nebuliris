@@ -1,7 +1,8 @@
 # Hi, I'm Iris 👋
-> **Nebuliris** = *Nebula + Iris* \nApparently, naming projects after astronomical objects makes them 42% more pleasant.
-
 💻 **Developer · Linux enthusiast · Homelab enjoyer**
+
+> Nebuliris = Nebula + Iris
+Apparently, naming projects after astronomical objects makes them 42% more pleasant. ✨
 
 I like building things, breaking them, and figuring out why they broke.
 Currently exploring **web development, systems, networking and self-hosting**.
