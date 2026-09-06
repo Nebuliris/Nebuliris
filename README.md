@@ -25,7 +25,7 @@ Currently exploring **web development, systems, networking and self-hosting**.
 ### 🚀 What I'm working on
 
 * 🐧 Linux & self-hosted infrastructure
-* 🌐 Web applications & real-time systems
+* 🌐 Web applications
 * 🤖 Discord bots
 * 🐘 PostgreSQL & backend development
 * 🐳 Docker, Nginx & VPS
