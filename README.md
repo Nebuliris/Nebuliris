@@ -5,6 +5,9 @@
 I like building things, breaking them, and figuring out why they broke.
 Currently exploring **web development, systems, networking and self-hosting**.
 
+> **Nebuliris** = *Nebula + Iris*
+Apparently, naming projects after astronomical objects makes them 42% more pleasant.
+
 ---
 
 ### 📊 GitHub Stats
@@ -37,14 +40,6 @@ Currently exploring **web development, systems, networking and self-hosting**.
 🚧 **Currently building...**
 
 More projects coming soon.
-
----
-
-### 🌌 About Nebuliris
-
-> **Nebuliris** = *Nebula + Iris*
-
-A little space-themed identity inspired by the night sky, because apparently naming projects after astronomical objects makes debugging them 12% more enjoyable.
 
 ---
 
