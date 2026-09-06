@@ -1,21 +1,75 @@
-## Hi there 👋
+# Hi, I'm Iris 👋
 
-<!--
-**Nebuliris/Nebuliris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer · Linux enthusiast · Homelab enjoyer**
 
-Here are some ideas to get you started:
+I like building things, breaking them, and figuring out why they broke.
+Currently exploring **web development, systems, networking and self-hosting**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=Github%20stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=prussian)](https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=Github%20stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=prussian)
-[![GitHub Streak](https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=prussian&locale=fr)](https://git.io/streak-stats)
+### 🚀 What I'm working on
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=4&disable_animations=true&theme=prussian)](https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=4&disable_animations=true&theme=prussian)
+* 🐧 Linux & self-hosted infrastructure
+* 🌐 Web applications & real-time systems
+* 🤖 Discord bots
+* 🐘 PostgreSQL & backend development
+* 🐳 Docker, Nginx & VPS
+* 💻 C / Python / JavaScript
+* 🔧 Networking & homelab projects
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,nodejs,postgres,mysql,linux,docker,nginx,git,github,vscode,blender,arduino" />
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=prussian" height="170"/>
+  <img src="https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=prussian&locale=fr" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nebuliris&langs_count=6&layout=compact&disable_animations=true&theme=prussian" height="170"/>
+</p>
+
+---
+
+### 🌌 About Nebuliris
+
+> **Nebuliris** = *Nebula + Iris*
+
+A little space-themed identity inspired by the night sky, because apparently naming projects after astronomical objects makes debugging them 12% more enjoyable.
+
+---
+
+### 📌 Featured projects
+
+🚧 **Currently building...**
+
+More projects coming soon.
+
+---
+
+### 📫 Find me
+
+<p align="center">
+
+<a href="https://github.com/Nebuliris">
+  <img src="https://img.shields.io/badge/GitHub-Nebuliris-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building things somewhere between localhost and the stars.</i>
+</p>
