@@ -23,7 +23,7 @@ Currently exploring **web development, systems, networking and self-hosting**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,nodejs,postgres,mysql,linux,docker,nginx,git,github,vscode,blender,arduino" />
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,linux,docker,vscode" />
 
 </p>
 
