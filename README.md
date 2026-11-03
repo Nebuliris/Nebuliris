@@ -13,7 +13,7 @@ Currently exploring **web development, systems, networking and self-hosting**.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Nebuliris&rank_icon=percentile&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&disable_animations=true&theme=prussian" height="170"/>
-  <img src="https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=prussian&locale=fr" height="170"/>
+  <img src="https://github-readme-streak-stats-olive-eight-94.vercel.app?user=Nebuliris&theme=prussian&locale=fr&type=png" height="170"/>
 </p>
 
 <p align="center">
